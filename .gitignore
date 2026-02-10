@@ -1,0 +1,9 @@
+.claude/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+Thumbs.db
+*.tfstate
+*.tfstate.backup
+.terraform/
